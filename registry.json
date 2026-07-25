@@ -33,7 +33,15 @@
       "expiresAt": 1816496581793,
       "status": "active",
       "issuedAt": 1784960584150
+    },
+    {
+      "id": "381e3e7f-d964-49a3-a2b4-a4aa547f56e1",
+      "hwid": "ff610da556706f1e324a1268a5618298933a0abdc7e32cf019ffa8078b39018e",
+      "plan": "Yearly",
+      "expiresAt": 1816496685529,
+      "status": "active",
+      "issuedAt": 1784960689016
     }
   ],
-  "sig": "sD70cjGE0Q7j8oIs_5iZdKw85FMF4aDS6h5m5at70CVAamEZpzNML9c_sCgKYaWzml5CjMMOnZ9dwH3v8gEYeQ"
+  "sig": "1aDb-9LuK0AM0nTDJPxV3gVtAZMkacSSqgSitSh8ClvmIYsTO5znITL-OBdLgN-2N-tQ3yyYVocDz3deJkLabA"
 }
