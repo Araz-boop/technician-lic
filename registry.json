@@ -1,15 +1,6 @@
 {
   "v": 1,
   "minBuild": 0,
-  "entries": [
-    {
-      "id": "81cfd0bc-9eeb-4002-b382-2678b53d184f",
-      "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
-      "plan": "Yearly",
-      "expiresAt": 1816516842666,
-      "status": "active",
-      "issuedAt": 1784980843967
-    }
-  ],
-  "sig": "x9Ajyd5F1u-b5EcOPT1LUzyX1aM85Ln7uRn7Cp0PO2EkTRu-3hSb0-U4gy7Xz8GmdAMS2Zjd0k5Yc3sZVjwKYQ"
+  "entries": [],
+  "sig": "09rzB0Y6UN8H0tbzXYXFq3vBX4eo9ykZa7HcCty2Sf72RUOS5fmM5HOgzve2whAwB6GXuLfPK8Wbkrk4W1-Cjg"
 }
