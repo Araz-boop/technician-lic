@@ -7,9 +7,9 @@
       "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
       "plan": "Lifetime",
       "expiresAt": 0,
-      "status": "active",
+      "status": "revoked",
       "issuedAt": 1784991544544
     }
   ],
-  "sig": "QCBCsUVDMcp6G6pDgphLfKt_OeKZ2H8gfkKjXvJjwAz8t-RuaTOtg6Yk4MhAX9XjdG0YdA-Ln_PE7qytJBbcLQ"
+  "sig": "75aIaCnfIy02KCBvLPO9UbyX5D5bS5vr7Cxyfpo9ZfaZ71lKNqWJQ4m89nmxu9BGdCmfsU319Ju8keiWfq7NVA"
 }
