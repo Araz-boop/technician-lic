@@ -1,63 +1,6 @@
 {
   "v": 1,
   "minBuild": 0,
-  "entries": [
-    {
-      "id": "9a8edefd-3b10-4587-a357-f984da91a0bc",
-      "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
-      "plan": "Monthly",
-      "expiresAt": 1787636183742,
-      "status": "revoked",
-      "issuedAt": 1784957786565
-    },
-    {
-      "id": "02b69179-f6f1-4fe2-95af-d736ddf7862e",
-      "hwid": "ff610da556706f1e324a1268a5618298933a0abdc7e32cf019ffa8078b39018e",
-      "plan": "Monthly",
-      "expiresAt": 1787637544799,
-      "status": "active",
-      "issuedAt": 1784959146702
-    },
-    {
-      "id": "95f777ce-7662-41b5-a043-4b2cdf7a6307",
-      "hwid": "ff610da556706f1e324a1268a5618298933a0abdc7e32cf019ffa8078b39018e",
-      "plan": "Monthly",
-      "expiresAt": 1787637671638,
-      "status": "active",
-      "issuedAt": 1784959275194
-    },
-    {
-      "id": "f7bdb706-92c0-4c49-a638-8f0c508e26cd",
-      "hwid": "ff610da556706f1e324a1268a5618298933a0abdc7e32cf019ffa8078b39018e",
-      "plan": "Yearly",
-      "expiresAt": 1816496581793,
-      "status": "active",
-      "issuedAt": 1784960584150
-    },
-    {
-      "id": "381e3e7f-d964-49a3-a2b4-a4aa547f56e1",
-      "hwid": "ff610da556706f1e324a1268a5618298933a0abdc7e32cf019ffa8078b39018e",
-      "plan": "Yearly",
-      "expiresAt": 1816496685529,
-      "status": "active",
-      "issuedAt": 1784960689016
-    },
-    {
-      "id": "e07b802c-f423-4b73-9dcc-839d7ebc1e9c",
-      "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
-      "plan": "Lifetime",
-      "expiresAt": 0,
-      "status": "active",
-      "issuedAt": 1784975931856
-    },
-    {
-      "id": "0090f65c-1461-4124-8bc2-87425483696e",
-      "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
-      "plan": "Yearly",
-      "expiresAt": 1816514136780,
-      "status": "active",
-      "issuedAt": 1784978141577
-    }
-  ],
-  "sig": "JoEEGvjo-Ikh4xnSDvETgPrdD6irX_EP5_pOhKD5nMVqEgUEb7jEOQsdaahQYVaqlk10IdnxWrMMwuS-SYAqVg"
+  "entries": [],
+  "sig": "WZ8JxOQcGZEfqNpwe9skblxJ3NDdP-B-0gmj8yyGKgn2NS6k9FI_29GLWXTjbVk3u_3TfWUvf_Dji5iEEjWtLQ"
 }
