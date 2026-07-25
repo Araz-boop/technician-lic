@@ -41,7 +41,15 @@
       "expiresAt": 1816496685529,
       "status": "active",
       "issuedAt": 1784960689016
+    },
+    {
+      "id": "e07b802c-f423-4b73-9dcc-839d7ebc1e9c",
+      "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
+      "plan": "Lifetime",
+      "expiresAt": 0,
+      "status": "active",
+      "issuedAt": 1784975931856
     }
   ],
-  "sig": "1aDb-9LuK0AM0nTDJPxV3gVtAZMkacSSqgSitSh8ClvmIYsTO5znITL-OBdLgN-2N-tQ3yyYVocDz3deJkLabA"
+  "sig": "xPPqUZwWM4VaFUvslw2Tyb4hklHtVhjJ8pi3LRCxSZfsWDO91r6fW-gd1cB_3Cs-brAcQZyj_4qKNl2iF4kbSg"
 }
