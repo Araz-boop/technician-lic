@@ -1,0 +1,15 @@
+{
+  "v": 1,
+  "minBuild": 0,
+  "entries": [
+    {
+      "id": "9a8edefd-3b10-4587-a357-f984da91a0bc",
+      "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
+      "plan": "Monthly",
+      "expiresAt": 1787636183742,
+      "status": "active",
+      "issuedAt": 1784957786565
+    }
+  ],
+  "sig": "Q4D5esXQbBCN0w9hAk9o2V0oHaJO4eRFWATtqh6P2zi38GwbiAz2jNhv9JOEsIPL1WVPnA2PyRf3vBwAj-sxyA"
+}
