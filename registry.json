@@ -1,23 +1,6 @@
 {
   "v": 1,
   "minBuild": 0,
-  "entries": [
-    {
-      "id": "d78b4f3d-c845-4bdc-bb42-1e41f3b0cfef",
-      "hwid": "LIC1.NjVmYWYyMjQtZjRkNy00NzQxLWE5MzctMDgzYWExMWQwNDJlADhmOTNkODU4Y2MyMWRjNjI0MWVkZDliMGFjYmY3ZDYyNGMwYjVmZWYzMDMxZTUzMzE4ZWM4YjllMmExZDc0NDIAMAA2MzkyMDYzNzUzMzc4OTMzMTYANjM5MjMzMTU5MzM3ODkzMzI2AGQ5ZDU5MThjLTM0NmQtNGE2NC1hYjM4LWVhM2NiNDVjOTVjNQ.cFyDNtb8IaThOlp5RfcCiDRcdFWDCZnSw25IFZm-lf9anVvtdf-ZaBvmi97At7jLWC-uj2gKKsUm47zbJ-jgYQ",
-      "plan": "Yearly",
-      "expiresAt": 1816576841693,
-      "status": "active",
-      "issuedAt": 1785040842305
-    },
-    {
-      "id": "c641d4a4-6c1b-444f-bfe5-d67b05996aef",
-      "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
-      "plan": "Monthly",
-      "expiresAt": 1787719265757,
-      "status": "active",
-      "issuedAt": 1785040866590
-    }
-  ],
-  "sig": "siCkBmlv25Cgwm7_ISX_XCwbOe7-uxziVc1oWAw9_iKZxvSM8LoiiZj6TaqetpYT3oD9XOulb2Pjf6IfX7PnoA"
+  "entries": [],
+  "sig": "rvwXLXBGzztmkIZfdDMaVgW_OKH5o16gWAH67xN0OvMayUuohExP3IEHraBiN9saWA_AWXghKFG05VrSPpXV3Q"
 }
