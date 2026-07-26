@@ -1,6 +1,15 @@
 {
   "v": 1,
   "minBuild": 0,
-  "entries": [],
-  "sig": "dYHEXBfEeDwMvRptdUWB4zCyhGuo7N-fJ32SVjm69QyFz--fTiEzJkY0Lvum2Vz1rwnUaukPgJEYA7pLzccMTg"
+  "entries": [
+    {
+      "id": "101c0984-cb4b-4c0f-aff0-fb204b199667",
+      "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
+      "plan": "Monthly",
+      "expiresAt": 1787718421887,
+      "status": "active",
+      "issuedAt": 1785040022802
+    }
+  ],
+  "sig": "0gBZq2ceS3eCcrumGl03nuki0qHxYoe8gZmQNc7OqAU7JgTouswM-aJIsE8e5ozJGScdv1EhPy7HqLWu8KdUbQ"
 }
