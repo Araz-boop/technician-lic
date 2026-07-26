@@ -7,9 +7,9 @@
       "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
       "plan": "Yearly",
       "expiresAt": 1816576184617,
-      "status": "active",
+      "status": "revoked",
       "issuedAt": 1785040189323
     }
   ],
-  "sig": "BCecac1TzsWqregGEEpojm-Vpd_wmNLRN4P-EC1i5uqmxvjY0SYDLk__gB31nK5FNb9AlmVn2o9XGwyLHbXrbw"
+  "sig": "tmUAMnd8b8TRvGkxBmncDF2jK-pV05xH3hgji9bsutNpBSyTmu533Y4WTToZ3WRoo6qY4HkHB01TSHWh-UcBTQ"
 }
