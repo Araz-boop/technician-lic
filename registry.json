@@ -3,13 +3,13 @@
   "minBuild": 0,
   "entries": [
     {
-      "id": "101c0984-cb4b-4c0f-aff0-fb204b199667",
+      "id": "46addef1-f447-42a0-a979-593a9e348b65",
       "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
-      "plan": "Monthly",
-      "expiresAt": 1787718421887,
+      "plan": "Yearly",
+      "expiresAt": 1816576184617,
       "status": "active",
-      "issuedAt": 1785040022802
+      "issuedAt": 1785040189323
     }
   ],
-  "sig": "0gBZq2ceS3eCcrumGl03nuki0qHxYoe8gZmQNc7OqAU7JgTouswM-aJIsE8e5ozJGScdv1EhPy7HqLWu8KdUbQ"
+  "sig": "BCecac1TzsWqregGEEpojm-Vpd_wmNLRN4P-EC1i5uqmxvjY0SYDLk__gB31nK5FNb9AlmVn2o9XGwyLHbXrbw"
 }
