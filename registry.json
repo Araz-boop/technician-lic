@@ -9,7 +9,15 @@
       "expiresAt": 1787719133789,
       "status": "active",
       "issuedAt": 1785040735074
+    },
+    {
+      "id": "d78b4f3d-c845-4bdc-bb42-1e41f3b0cfef",
+      "hwid": "LIC1.NjVmYWYyMjQtZjRkNy00NzQxLWE5MzctMDgzYWExMWQwNDJlADhmOTNkODU4Y2MyMWRjNjI0MWVkZDliMGFjYmY3ZDYyNGMwYjVmZWYzMDMxZTUzMzE4ZWM4YjllMmExZDc0NDIAMAA2MzkyMDYzNzUzMzc4OTMzMTYANjM5MjMzMTU5MzM3ODkzMzI2AGQ5ZDU5MThjLTM0NmQtNGE2NC1hYjM4LWVhM2NiNDVjOTVjNQ.cFyDNtb8IaThOlp5RfcCiDRcdFWDCZnSw25IFZm-lf9anVvtdf-ZaBvmi97At7jLWC-uj2gKKsUm47zbJ-jgYQ",
+      "plan": "Yearly",
+      "expiresAt": 1816576841693,
+      "status": "active",
+      "issuedAt": 1785040842305
     }
   ],
-  "sig": "USjC0mAhz1J8Xxvh6dtKJY8L7ekGkKCzbhJc5NRtMOxF1vHgYTM6q6B3ER4SR_CnGLptB2Ie1BH2D8URVzjKog"
+  "sig": "sHuKjHvYvVp5IR_z3Ki8cSXyAfrzi_T4XLBAcf6MrNTUeg4FBA1y2uzmlZkpX_MQPKHA-6hlFoCErX9N7XEoDg"
 }
