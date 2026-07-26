@@ -1,6 +1,15 @@
 {
   "v": 1,
   "minBuild": 0,
-  "entries": [],
-  "sig": "rvwXLXBGzztmkIZfdDMaVgW_OKH5o16gWAH67xN0OvMayUuohExP3IEHraBiN9saWA_AWXghKFG05VrSPpXV3Q"
+  "entries": [
+    {
+      "id": "e45bdcaf-dcf7-423d-86e7-72bd40f81f59",
+      "hwid": "8f93d858cc21dc6241edd9b0acbf7d624c0b5fef3031e53318ec8b9e2a1d7442",
+      "plan": "Lifetime",
+      "expiresAt": 0,
+      "status": "active",
+      "issuedAt": 1785041001071
+    }
+  ],
+  "sig": "E-p2MM5QXHXS7AiULZF4BXuSHrVYp6Pc45Y4bMtUeAPf9fDKQp0nbX9ZmBhF9Lq9Og05GLzHcY5ml2lyLRgdnQ"
 }
